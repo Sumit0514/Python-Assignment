@@ -110,7 +110,7 @@ username=input()
 print('. Character Variety: It must contain at least: ')
 print('● Two uppercase letters.,● Two lowercase letters.,● Two digits.● Two special characters (e.g., @, #, $, %, &, *, !). ')
 password='none'
-password_list=['OK$atyam!!123']
+password_list=['Sumit$1405']
 final_password=condition_verification(password)
 print(final_password)
 
